@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++-17",
+    "editor.formatOnSave": true,
+    "clang-format.style": "{BasedOnStyle: Google, IndentWidth: 4, BreakBeforeBraces: Linux, AccessModifierOffset: -4}",
+    "clang-format.language.cpp.enable": true,
+    "clang-format.executable": "clang-format-18",
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.tabSize": 4
+    },
+    "explorer.excludeGitIgnore": true
+}
